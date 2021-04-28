@@ -1,6 +1,18 @@
+form {
+  width: 500px;
+  margin: auto;
+  text-align: left;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
+
+
 .App {
   text-align: center;
-  ;
+  padding:100px;
 }
 
 .App-logo {
